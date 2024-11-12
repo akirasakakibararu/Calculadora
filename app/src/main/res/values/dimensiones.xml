@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="anchura_button_general">80dp</dimen>
+    <dimen name="altura_button_general">80dp</dimen>
+    <dimen name="anchura_button_doble">160dp</dimen>
+    <dimen name="anchura_button_triple">240dp</dimen>
+</resources>
